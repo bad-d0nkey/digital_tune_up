@@ -34,7 +34,8 @@ most of the work i do first involves text analysis. i learned from someone who k
 + step 3: created new corpus in voyant
 	+ uploaded the json table
 	+ selected the approriate options (for me, 45 and 16 + 43) on the landing page
-	+ got myself [this](https://voyant-tools.org/?corpus=4f2fbfc002643d7b3296258a2d28804e) ungodly mess
+	+ got myself [this](https://voyant-tools.org/?corpus=4f2fbfc002643d7b3296258a2d28804e) ungodly mess, a sample of which follows
+	+ ![ungodly-mess](ungodly-mess.png)
 
 + step 4: investigated the corpus
 	+ the OCRing evidently did not go so well - there is a lot of non-word soup that has entered into the corpus
