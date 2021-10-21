@@ -26,7 +26,7 @@ i keep meaning to start learning storytelling/mapping methods, but never carve o
   + i decided to do something fun and having heard a song from you youth recently, edith piaf had been on my mind. went for it.
     + couldn't help but note that it's crazy we're "surprised" by the amount of misinformation about serious things like COVID when people are happy to recycle bunk "facts" about something as simple as a well-documented biography. donkey pause. donkey reflect. donkey has been spending too much time coding q tweets. 
 
-    ![sisko-sigh](bensisko.mp4)
+   	 ![sisko-sigh](sisko.gif)
 
   + rounded out my knowins about la belle chanteuse and sketched out a script, keeping the storytelling tips in mind
   + collected photos to complement the story, recorded their sources 
