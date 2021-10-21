@@ -44,6 +44,8 @@ i had an issue with picture sizing. i ended up doing it the dirty way with the s
 
 the map itself isn't that interesting. i was mindful of the two tips in the tutorial about high locomotion in the story and a building narrative. i did all right, but if i were to use this for something, i would be mindful of the _kind_ of structure that really makes it pop. better next time!
 
+**addendum** apparently figuring out how to embed the map in a text file is also a challenge. i am discording on it.
+
 ## thoughts on where to go next
 
 toss-up between figuring out the details i mentioned in challenges (esp. re: picture sizing) and taking another shaky step out into mapping. i had tried some before but it was very difficult (the entry-level seminar was for some tech that required serious chops! lol.). this has been quite encouraging.
