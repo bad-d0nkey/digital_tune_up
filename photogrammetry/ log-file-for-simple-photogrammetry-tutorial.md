@@ -30,7 +30,11 @@ build a 3D model using photogrammetry.
 + step 3: tried to build [part of the el mirador](https://github.com/bad-d0nkey/digital_tune_up/blob/ccc24350a5f8277d2dd1385b258d4b1467cd41da/photogrammetry/el-mirador-original-building.r3d)
   + tinkered with this a few different ways -> no matter what i tried, it ended up coming out creepy and dali-esque
   + i used the advised presets in the tutorial
-    + this had started out more detailed, with records for 3 different versions of settings i used, but something went awry with my log file and i lost the deets -> sigh 
+
++ step 4: rewind: i have donked
+  + i've been tinkering with this for a couple days. it started out as a bigger project. then i scaled it down. then i played with it with a few settings version. the original log file had a few different settings for different models recorded. the processing power needed was making it impossible to do anything else. i must have clicked or closed something and the log file disappeared. i ran out of storage on my donkputer and got to deleting things/making things cloud-only. things happened. now i have not much by way of output to show and poor notes. lol. this went sideways. 
++ i also can't upload the file format to sketchfab. as much as i love signing up for random things and getting an overhwhelming amount of emails, i elected not to try also signing up for the other option provided in the tutorial. ;) besides, the model is way bigger than 100mb, so i don't think that would have mattered. 
++ the links above are just to the files. useful, i know. but i've had enough tinkering, feel better about knowing more, and have decided it's time to move on.  
        
 ## challenges 
 
