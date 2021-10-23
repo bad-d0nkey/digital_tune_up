@@ -29,19 +29,9 @@ build a 3D model using photogrammetry.
 
 + step 3: tried to build part of the el mirador
   + tinkered with this a few different ways -> no matter what i tried, it ended up coming out creepy and dali-esque
-  + for this model, i used the following:
-    + computing matches -> slid sliders all the way to the right
-    + triangulation -> 
-    + surface -> set to       
-  + for this model, i used the following:
-    + computing matches -> slid sliders all the way to the right, used TBMR
-    + triangulation -> 
-    + surface -> set to       
-  + for this model, i used the following:
-    + computing matches -> slid sliders all the way to the right, used TBMR
-    + triangulation -> 
-    + surface -> set to       
-
+  + i used the advised presets in the tutorial 
+    + this had started out more detailed, with records for 3 different versions of settings i used, but something went awry with my log file and i lost the deets -> sigh 
+       
 ## challenges 
 
 i need to work through things methodically so i can identify cause/effect - not being able to do this on my tablet (which is fairly powerful, particuarly for a tablet, but let's not pretend it's a rocket ship...) hindered my being able to play with settings and just render, render, render to see the results. i try to keep my laptop unencumbered so i can do the masses of text analysis i do. i think if want to do the things i want to do in future (like modelling), i am going to need to resurrect my "desktop 2" setup with a tower dedicted to machinations.
