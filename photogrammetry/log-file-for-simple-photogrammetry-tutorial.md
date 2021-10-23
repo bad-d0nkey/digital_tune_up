@@ -29,7 +29,7 @@ build a 3D model using photogrammetry.
 
 + step 3: tried to build [part of the el mirador](https://github.com/bad-d0nkey/digital_tune_up/blob/ccc24350a5f8277d2dd1385b258d4b1467cd41da/photogrammetry/el-mirador-original-building.r3d)
   + tinkered with this a few different ways -> no matter what i tried, it ended up coming out creepy and dali-esque
-  + i used the advised presets in the tutorial 
+  + i used the advised presets in the tutorial
     + this had started out more detailed, with records for 3 different versions of settings i used, but something went awry with my log file and i lost the deets -> sigh 
        
 ## challenges 
