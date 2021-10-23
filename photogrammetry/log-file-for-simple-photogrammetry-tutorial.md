@@ -6,7 +6,7 @@ tags: digital_tune_up, photogrammetry
 
 # what I was trying to do
 
-build a photogrammetry model from some pics i had and had been trying to get into a model for a while. also, maybe start with actually having something photogrammetry-y actually work. maybe by _not_ starting with something complicated like my pics. ;) something about... crawling? was it? before walking? i believe? or something like that.
+build a 3D model using photogrammetry.
 
 + tutorial: https://graddh.netlify.app/docs/tutorials/photogrammetry/
 + repo: `[photogrammetry](https://github.com/bad-d0nkey/digital_tune_up/photogrammetry)`
@@ -23,12 +23,16 @@ build a photogrammetry model from some pics i had and had been trying to get int
   + the regard3d (Heidstand) tutorial
 
 + step 2: built the Sceaux Castle 
-  + i mean, not really - this was pretty bad - but i built a few models and ended up with this one being the clearest  
+  + i mean, not really - this was pretty bad - but i built a few models and ended up with this one being the clearest
+  + i tinkered with various settings, but this was taking so long in each go that i didn't bother rendering too many models
+    + in future, i will find a machine that has more power so i can render to my heart's content    
 
-+ step 3: (tried) to build the el mirador
-  + computing matches -> set to , TMBR
-  + triangulation -> 
-  + surface -> set to       
++ step 3: tried to build part of the el mirador
+  + tinkered with this a few different ways -> no matter what i tried, it ended up coming out creepy and dali-esque
+  + for this model, i used the following:
+    + computing matches -> slid sliders all the way to the right, used TBMR
+    + triangulation -> 
+    + surface -> set to       
 
 ## challenges 
 
