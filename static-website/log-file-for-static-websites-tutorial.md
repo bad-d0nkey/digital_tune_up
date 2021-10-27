@@ -40,21 +40,15 @@ it's a place to showcase things i create for/with the public. and it's probably 
   + i'll figure out how to link things later. i can still get the content up now. 
 
 + step 6: ze questions
-  + asperger's happened. i'm just going to leave this. i know i'm overwhelmed by peopleing and the way i have to do it - small bites, not really synchronously - isn't ideal for working through things. hiccups happen. so let it be for now! fresh eyes and fresh brain invariably help and generally let me come up with a different way to ask my questions - hopefully while also frustrating other people less. lol. 
-  + for now, i've got stuff up and accessible. it's okay that it's ugly. when i have a bit more ground under me, i'll know how to ask the things i need to ask in a way that doesn't rub people wrong or sound like i've not done any groundwork. that's a good place to be. it's progress and it's all i can ask for. 
+  + vocabulary got in the way. asperger's happened. i'm just going to leave this. fresh eyes and fresh brain invariably help and generally let me come up with a different way to ask my questions.
+  + for now, i've got stuff up and accessible. it's okay that it's ugly. when i have a bit more ground under me, i'll know how to ask the things differently. good enough for me. progress is progress - can't ask for more.  
 
 ![that'slife](https://c.tenor.com/wo8t7TKeAegAAAAC/life-goes.gif)
     
 ## challenges 
 
-this is probably wildly inappropriate for a log, but it's actually my main takeaway, so i'm writing about it. 
-
-i've been trying to find a way to handle the excessive communication that arose with the plague. tech used to be my refuge. now it's a place that sort of replicates the real world and the "rules" for my sneaky world have changed. i don't know how to rebuild different approaches to a structure i've operated well within for over a decade. workin' on it, though. 
-
-having a group that kicks ass to figure this stuff out with is great. yeah, i've rubbed some the wrong way. i'm okay with that. all i can do is be consistent and keep improving how i interact with folks. everyone is still supportive and helpful. this is a good space to grow. i didn't expect this at all and i'm pretty grateful for it. 
-
-so my static website is gross. that's cool. i learned a bunch of other things that are a lot more important in trying to work out the issues with this project. which is also cool. 
+not sure how to articulate this. right now i'm in a donk loop, i think. it comes down to figuring out how to ask about things i don't know the words for. but i need more time to think about this. something will shake loose. always does.
 
 ## thoughts on where to go next
 
-well, a workable website would be great. but right now i'm thinking about non-tech things. i'm happy with that. 
+well, a workable website and being comfortable with setting these up would be pretty cool. definitely something i'll be spending more time with. 
